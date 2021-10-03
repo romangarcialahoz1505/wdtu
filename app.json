@@ -1,0 +1,26 @@
+{
+  "id": "7de99ebc-c196-4b1d-bf39-33b9cd948ed5",
+  "name": "WDTU",
+  "publisher": "RGLH",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 55000,
+      "to": 55149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://WDTU.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
